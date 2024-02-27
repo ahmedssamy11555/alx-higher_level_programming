@@ -11,3 +11,4 @@ def uppercase(str):
             result += str[charIndex]
 
     print('{}'.format(result))
+    
