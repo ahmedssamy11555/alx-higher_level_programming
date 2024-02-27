@@ -16,4 +16,5 @@ All of the following files are pyhon executable files:
 | `2-print_alphabet` | prints the ASCII alphabet, in lowercase, not followed by a new line.|
 | `3-print_alphabt` | prints the ASCII alphabet, in lowercase, not followed by a new line. |
 | `4-print_hexa` |  prints all numbers from 0 to 98 in decimal and in hexadecimal (as in the following example) |
+| `5-print_comb2` |  prints numbers from 0 to 99. |
 
