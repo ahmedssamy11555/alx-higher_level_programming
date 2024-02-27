@@ -19,4 +19,5 @@ All of the following files are pyhon executable files:
 | `5-print_comb2` |  prints numbers from 0 to 99. |
 | `6-print_comb3` |  prints all possible different combinations of two digits. |
 | `7-islower` |  function that checks for lowercase character. |
+| `8-8-uppercase` |  prints a string in uppercase followed by a new line. |
 
