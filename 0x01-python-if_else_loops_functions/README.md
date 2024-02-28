@@ -20,4 +20,9 @@ All of the following files are pyhon executable files:
 | `6-print_comb3` |  prints all possible different combinations of two digits. |
 | `7-islower` |  function that checks for lowercase character. |
 | `8-8-uppercase` |  prints a string in uppercase followed by a new line. |
+| `9-print_last_digit` |  function that prints the last digit of a number. |
+| `10-add` |  function that adds two integers and returns the result. |
+| `11-pow` |  function that computes a to the power of b and return the value. |
+| `12-fizzbuzz` |  function that prints the numbers from 1 to 100 separated by a space |
+| `100-print_tebahpla` |  Write a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase) , not followed by a new line. |
 
