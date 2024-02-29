@@ -1,6 +1,8 @@
 #!/usr/bin/python3
+lower = ""
 for i in range(ord('z'), ord('a') - 1, -1):
     if i % 2 == 0:
-        print(chr(i), end='')
+        lower += chr(i)
     else:
-        print(chr(i).upper(), end='')
+        lower += chr(i).upper()
+print("{}".format(lower))
