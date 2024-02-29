@@ -5,4 +5,4 @@ for i in range(ord('z'), ord('a') - 1, -1):
         lower += chr(i)
     else:
         lower += chr(i).upper()
-print("{}".format(lower))
+print("{}".format(lower), end="")
