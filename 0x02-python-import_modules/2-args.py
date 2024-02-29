@@ -12,7 +12,7 @@ def print_args(argu, args_list, args_length):
 def main():
     args_list = sys.argv
     args_length = len(args_list)
-    if args_length  == 0:
+    if args_length == 0:
         print("{} arguments.".format(args_length))
     elif args_length > 0:
         if args_length == 1:
