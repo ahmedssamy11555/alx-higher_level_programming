@@ -10,5 +10,5 @@ def print_reversed_list_integer(my_list=[]):
 
         left_pointer += 1
         right_pointer -= 1
-
-    return my_list
+    for number in my_list:
+        print("{:d}".format(number))
