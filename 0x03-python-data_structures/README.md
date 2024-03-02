@@ -1,0 +1,16 @@
+# 0x02. Python - import & modules
+
+Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about how to handle standard input and output and how to combine commands and filters with redirections in **python**.
+
+## Technologies
+
+- Python Scripts written in python version 3.8.5
+- Tested on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
+
+## Files
+
+All of the following files are python executable files:
+
+| Filename               | Description                                  |
+| ---------------------- | -------------------------------------------- |
+| `0-print_list_integer` | function that prints all integers of a list. |
