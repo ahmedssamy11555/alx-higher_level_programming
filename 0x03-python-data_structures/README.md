@@ -19,3 +19,4 @@ All of the following files are python executable files:
 | `3-print_reversed_list_integer` | function that prints all integers of a list, in reverse order.                                                      |
 | `4-new_in_list`                 | function that replaces an element in a list at a specific position without modifying the original list (like in C). |
 | `5-no_c`                        | function that removes all characters c and C from a string.                                                         |
+| `6-print_matrix_integer`        | function that prints a matrix of integers.                                                                          |
