@@ -20,4 +20,8 @@ All of the following files are python executable files:
 | `4-new_in_list`                 | function that replaces an element in a list at a specific position without modifying the original list (like in C). |
 | `5-no_c`                        | function that removes all characters c and C from a string.                                                         |
 | `6-print_matrix_integer`        | function that prints a matrix of integers.                                                                          |
-| `7-add_tuple.py`                | Write a function that adds 2 tuples.                                                                                |
+| `8-multiple_returns.py`         | function that returns a tuple with the length of a string and its first character.                                  |
+| `9-max_integer.py`              | function that finds the biggest integer of a list. tuples.                                                          |
+| `10-divisible_by_2.py`          | function that finds all multiples of 2 in a list.tuples.                                                            |
+| `11-delete_at.py`               | function that deletes the item at a specific position in a list.tuples.                                             |
+| `12-switch.py`                  | Complete the source code in order to switch value of a and b                                                        |
