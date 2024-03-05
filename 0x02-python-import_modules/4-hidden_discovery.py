@@ -1,15 +1,15 @@
 #!/usr/bin/python3
-import dis
+import hidden_4
 
-def main():
-    with open("hidden_4.pyc", 'rb') as file:
-        pyc_magic_number  = file.read(4)
-        if pyc_magic_number != b'\x03\xf3\r\n':
-            print("Invalid magic number. Not a valid .pyc file.")
-            return
-        file.read(4)
-        code_object = compile(file.read(), '<pyc_file>', 'exec')
-        dis.dis(code_object)
+
+def print_module_names():
+
+    module_names = dir(hidden_4)
+
+    for name in sorted(module_names):
+        if not name.startswith('__'):
+            print(name)
+
 
 if __name__ == "__main__":
-    main()
+    print_module_names()
