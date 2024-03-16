@@ -50,6 +50,8 @@ class Square:
                    parameters:
                    self (obj): the instance of the class
         """
+        if self.size == 0:
+            print()
         for _ in range(self.__size):
             for _ in range(self.__size - 1):
                 print("#", end="")
